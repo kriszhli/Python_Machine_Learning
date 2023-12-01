@@ -1,4 +1,4 @@
-# Python_Machine_Learning
+# Python ML Projects Archive
 Contains my machine learning engineering and data analysis projects
 
 ## Preview the HTML files here:
